@@ -55,9 +55,8 @@ Currently navigating my 3rd year of a 5.5-year Civil Computer & Telecommunicatio
 
 ---
 
-## Recent Activity
-.
----
+## Recent Activity 
+'---
 
 ## GitHub Stats
 <div align="center">
