@@ -17,24 +17,24 @@
 </div>
 
 ## System Profile (About Me)
-Currently navigating my **3rd year** of a 5.5-year Civil Computer & Telecommunications Engineering journey at **Universidad Autónoma de Chile**. My approach isn't just about writing code—it's about the **strategic management** of technology. I look at IT through a managerial lens, ensuring that technical solutions align with organizational security and efficiency.
+Currently navigating my 3rd year of a 5.5-year Civil Computer & Telecommunications Engineering journey at Universidad Autónoma de Chile. My approach isn't just about writing code, it's about the strategic management of technology. I look at IT through a managerial lens, ensuring that technical solutions align with organizational security and efficiency.
 
 
 
-- 🛡️ **Red Team Mindset:** I’m driven by the offensive side of the CIA Triad, focusing on system auditing and breaking down models to find their limits.
-- ⚙️ **The Grind:** Deep diving into Backend (Python/Java) while mastering Linux environments.
-- 🧪 **Strategy First:** Applying Agile frameworks (Scrum/Kanban) not just as tools, but as a way to lead projects effectively.
+- 🛡️ Red Team Mindset: I’m driven by the offensive side of the CIA Triad, focusing on system auditing and breaking down models to find their limits.
+- ⚙️ The Grind: Deep diving into Backend (Python/Java) while mastering Linux environments.
+- 🧪 Strategy First: Applying Agile frameworks (Scrum/Kanban) not just as tools, but as a way to lead projects effectively.
 
 ---
 
 ## Tech Stack (Tools & Languages)
-### **Core Architecture**
+### Core Architecture
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### **Offensive & Infrastructure Lab**
+### Offensive & Infrastructure Lab
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -48,34 +48,34 @@ Currently navigating my **3rd year** of a 5.5-year Civil Computer & Telecommunic
 
 ### Green Hydrogen & Data Analytics
 > High-level analysis of electricity consumption in Green Hydrogen cells.
-- **Tools:** `Python`, `Pandas`, `Matplotlib`, `SQL`.
-- **Impact:** Developed data structures to calculate energy costs, facilitating the shift from fossil fuels to sustainable hydrogen energy chains.
+- Tools: `Python`, `Pandas`, `Matplotlib`, `SQL`.
+- Impact: Developed data structures to calculate energy costs, facilitating the shift from fossil fuels to sustainable hydrogen energy chains.
 
 ### Enterprise Management System
 > Agile-driven system designed for real-world business data governance.
-- **Workflow:** `Scrum/Kanban`, `Trello`.
-- **Focus:** Balancing technical scalability with managerial data integrity.
+- Workflow: `Scrum/Kanban`, `Trello`.
+- Focus: Balancing technical scalability with managerial data integrity.
 
 ---
 
 ## CTF Write-ups & Labs
 *Booting up labs...*
-- [ ] **TryHackMe** - (Active Practice) 🛡️
-- [ ] **HackTheBox** - (Active Practice) ⚔️
-- [ ] **Network Lab** (Cisco Packet Tracer / GNS3) 🌐
+- [ ] TryHackMe - (Active Practice) 🛡️
+- [ ] HackTheBox - (Active Practice) ⚔️
+- [ ] Network Lab (Cisco Packet Tracer / GNS3) 🌐
 
 ---
 
 ## Research Interests
-- **Digital Forensics & IA:** Using AI to automate log analysis and forensic investigations.
-- **Next-Gen Telecom:** Optimization of **5G/6G** protocols and secure **IoT implementation** within educational environments.
-- **Cloud Governance:** Mastering the **ISO/IEC 27001:2022** transition, specifically focusing on cloud security controls.
+- Digital Forensics & IA:** Using AI to automate log analysis and forensic investigations.
+- Next-Gen Telecom: Optimization of **5G/6G** protocols and secure IoT implementation within educational environments.
+- Cloud Governance: Mastering the ISO/IEC 27001:2022 transition, specifically focusing on cloud security controls.
 
 ---
 
 ## GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Nemryz's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nemryz&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Nemryz's GitHub stats" />
 <br>
 <br>
 <sub>"Security is not a product, but a process." - Nemryz</sub>
