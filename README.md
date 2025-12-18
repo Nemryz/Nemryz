@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Nemryz | Engineering the Future of Secure Systems ⚡
+# ⚡ Nemryz ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Enthusiast;Civil+IT+&amp;+Telecom+Student;ISO+27001:2022+Focus;AI+Security+Forensics" alt="Typing SVG" />
 
