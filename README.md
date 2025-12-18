@@ -76,6 +76,7 @@ Currently navigating my 3rd year of a 5.5-year Civil Computer & Telecommunicatio
 ## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nemryz&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Nemryz's GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=nemryz&color=00ff00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 <br>
 <br>
 <sub>"Security is not a product, but a process." - Nemryz</sub>
