@@ -6,26 +6,28 @@
 
 ---
 
-###  Establishing Connection...
+### Establishing Connection
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_HERE])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([LINK_HERE])
-[![Telegram](https://img.shields.io/badge/Telegram-26A6E0?style=for-the-badge&logo=telegram&logoColor=white)]([LINK_HERE])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/20ignacio_ac/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nixtoz)
 <br>
-[![Academic Email](https://img.shields.io/badge/Academic_Email-D32F2F?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:TU_CORREO@uautonoma.cl)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:TU_OUTLOOK@outlook.com)
+[![Academic Email](https://img.shields.io/badge/Academic_Email-D32F2F?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ignacio.ampuero@cloud.uautonoma.cl)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Ignacioaachacon@hotmail.com)
 
 </div>
 
 ## System Profile (About Me)
 Currently navigating my **3rd year** of a 5.5-year Civil Computer & Telecommunications Engineering journey at **Universidad Autónoma de Chile**. My approach isn't just about writing code—it's about the **strategic management** of technology. I look at IT through a managerial lens, ensuring that technical solutions align with organizational security and efficiency.
 
-- **Red Team Mindset:** I’m driven by the offensive side of the CIA Triad, focusing on system auditing and breaking down models to find their limits.
-- **The Grind:** Deep diving into Backend (Python/Java) while mastering Linux environments.
--  **Strategy First:** Applying Agile frameworks (Scrum/Kanban) not just as tools, but as a way to lead projects effectively.
+
+
+- 🛡️ **Red Team Mindset:** I’m driven by the offensive side of the CIA Triad, focusing on system auditing and breaking down models to find their limits.
+- ⚙️ **The Grind:** Deep diving into Backend (Python/Java) while mastering Linux environments.
+- 🧪 **Strategy First:** Applying Agile frameworks (Scrum/Kanban) not just as tools, but as a way to lead projects effectively.
 
 ---
 
-##  Tech Stack (Tools & Languages)
+## Tech Stack (Tools & Languages)
 ### **Core Architecture**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,8 +73,10 @@ Currently navigating my **3rd year** of a 5.5-year Civil Computer & Telecommunic
 
 ---
 
-### The Secret Level
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eXJ6eHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxeHpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9HhU6u9G4rD5/giphy.gif" width="100" />
+## GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Nemryz's GitHub stats" />
+<br>
 <br>
 <sub>"Security is not a product, but a process." - Nemryz</sub>
 </div>
