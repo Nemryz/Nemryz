@@ -57,6 +57,10 @@ Currently navigating my 3rd year of a 5.5-year Civil Computer & Telecommunicatio
 
 ## Recent Activity 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Nemryz/cybersec-crawler/pull/2) in [Nemryz/cybersec-crawler](https://github.com/Nemryz/cybersec-crawler)
+2. 💪 Opened PR [#2](https://github.com/Nemryz/cybersec-crawler/pull/2) in [Nemryz/cybersec-crawler](https://github.com/Nemryz/cybersec-crawler)
+3. 🎉 Merged PR [#1](https://github.com/Nemryz/cybersec-crawler/pull/1) in [Nemryz/cybersec-crawler](https://github.com/Nemryz/cybersec-crawler)
+4. 💪 Opened PR [#1](https://github.com/Nemryz/cybersec-crawler/pull/1) in [Nemryz/cybersec-crawler](https://github.com/Nemryz/cybersec-crawler)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
