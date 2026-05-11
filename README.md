@@ -5,13 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Red+Team+Student+%7C+GRC+in+Progress;Civil+IT+%26+Telecom+Engineer;ISO+27001+%7C+Learning+by+Breaking;Building+in+public+from+Chile" alt="Typing SVG" />
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINK_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/20ignacio_ac/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A6E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nixtoz)
-<br>
-[![Academic Email](https://img.shields.io/badge/Academic_Email-D32F2F?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ignacio.ampuero@cloud.uautonoma.cl)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Ignacioaachacon@hotmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@FilenCelestac)
 
 </div>
 
