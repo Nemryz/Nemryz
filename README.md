@@ -67,5 +67,7 @@ Telegram, at @FilenCelestac, is the most reliable way to reach me. I welcome con
 ---
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nemryz&theme=dark&hide_border=true" />
+
   <img src="https://komarev.com/ghpvc/?username=nemryz&color=1a1a2e&style=flat-square&label=PROFILE+VIEWS" />
 </div>
