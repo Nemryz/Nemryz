@@ -45,7 +45,16 @@ Currently exploring Rust, Docker, Linux, and AI/ML.
 
 ### Repositories
 
-The primary project is opencode-sdd-kit, a workflow toolkit that structures feature development from specification through implementation. Additional works include bot-epub-translater, an EPUB translation automation tool, identity-generator, a CLI for synthetic identity creation, and cybersec-crawler, a multilingual security news collector that is no longer active. All repositories are available under the Nemryz profile.
+**[opencode-sdd-kit](https://github.com/Nemryz/opencode-sdd-kit), [![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Nemryz/opencode-sdd-kit), [![In progress](https://img.shields.io/badge/In_progress-33C3F0?style=for-the-badge)](https://github.com/Nemryz/opencode-sdd-kit)**
+Spec-Driven Development workflow kit for opencode, the project I develop most actively. It structures every feature lifecycle through constitution, specification, planning, task decomposition, review and implementation, sequential artifacts gated by validation, so no phase can be skipped. Ships 8 plugin tools, 6 agent skills, shared rules and templates, backed by 621 automated tests covering phase gates, cold-start bootstrap and concurrency safety.
+
+**[bot-epub-translater](https://github.com/Nemryz/bot-epub-translater-), [![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nemryz/bot-epub-translater-), [![In progress](https://img.shields.io/badge/In_progress-33C3F0?style=for-the-badge)](https://github.com/Nemryz/bot-epub-translater-)**
+Telegram bot that translates e-books (EPUB, MOBI, AZW3, FB2, RTF, DOCX) via Gemini and DeepSeek LLMs, built in 8 incremental phases with a modular architecture, EPUB parser, replaceable translation providers, bilingual output modes, quality review pass and on-disk cache.
+
+**[identity-generator](https://github.com/Nemryz/identity-generator), [![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nemryz/identity-generator), [![Stable](https://img.shields.io/badge/Stable-6FCF97?style=for-the-badge)](https://github.com/Nemryz/identity-generator)**
+CLI that generates coherent synthetic identities, name, address, phone and postcode all matching the same locale. Locale-aware fields, JSON export, clipboard, history tracking and Docker support.
+
+All repositories are available under the Nemryz profile.
 
 ### Objectives
 
