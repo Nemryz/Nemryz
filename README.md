@@ -54,3 +54,5 @@ Telegram, at @FilenCelestac, is the most reliable way to reach me.
   <br />
   <img src="https://komarev.com/ghpvc/?username=nemryz&color=1a1a2e&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
+[![committers.top badge](https://user-badge.committers.top/chile/nemryz.svg)](https://user-badge.committers.top/chile/nemryz)
